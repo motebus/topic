@@ -1,8 +1,8 @@
 ##Ultranet Topic and API List
 
 #MoteBus:
-. MoteBus Comm API Guide
-. MoteChat Transport API Guide
+. MoteBus Transport API Guide
+. MoteChat End-to-End Comm API Guide
 
 #WebMMS:
 . WebMMS API Guide
