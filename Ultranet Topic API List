@@ -1,16 +1,14 @@
-##Ultranet Topic API List
+##Ultranet Topic and API List
 
 #MoteBus:
-1. MoteBus API Guide
-2. MoteChat API Guide
-3. MMS API Guide
-
+. MoteBus API Guide
+. MoteChat API Guide
 
 #WebMMS:
-4. WebMMS API Guide
-5. Grouping api Guide
-6. URT Topic
-7. Smartscreen API Guide
+. WebMMS API Guide
 
+#SaaS
+. SmartScreen Topic API
 
 #Mote Sphere:
+. Mote Topic API
