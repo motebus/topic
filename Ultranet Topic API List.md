@@ -12,7 +12,7 @@
 
 #Mote Sphere:
 *  Mote Topic Guide
-*  
+
 
 
 
